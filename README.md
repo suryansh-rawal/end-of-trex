@@ -1,1 +1,1 @@
-# end-of-trex
+# trex
